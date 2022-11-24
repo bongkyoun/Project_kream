@@ -8,8 +8,10 @@
 개발 환경 : Windows, Mac OS, Oracle, STS, Eclipse, apache-tomcat
 
 
-사용 기술 : JAVA, JSP, JavaScript, Mybbatis, Spring Boot, J-Query
+사용 기술 : JAVA, JSP, JavaScript, Mybatis, Spring Boot, J-Query
 
 
 역할 : 부조장 및 발표자 역할을 맡아 팀 프로젝트를 수행하였으며 팀 내에서 전체적인 CRUD 및 Product, ProductDetail 등을 진행하였습니다. 
+
+<img width="{80%}" src="{https://github.com/bongkyoun/project_kream/issues/1#issue-1462760555}"/>
 
